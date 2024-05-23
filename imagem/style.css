@@ -1,0 +1,9 @@
+body{
+    background-color: red;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 285px 285px 285px;
+    gap: 4px;
+}
